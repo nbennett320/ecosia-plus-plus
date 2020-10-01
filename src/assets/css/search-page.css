@@ -1,0 +1,17 @@
+.search-header-menu-group > * > button {
+  border-color: transparent !important;
+  background-color: transparent !important;
+}
+
+.navbar-row .search-header {
+  background-color: #fafafa;
+}
+
+.search-box > form {
+  box-shadow: 0 2px 3px rgba(0,0,0,0.06);
+}
+
+
+.navbar-link::after {
+  height: 0.125em;
+}

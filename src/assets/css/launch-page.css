@@ -1,0 +1,29 @@
+.input-wrapper > input {
+  height: 2.8em;
+}
+
+#__layout, section > .content {
+  background-color: #f7f7f7 !important;
+}
+
+.content > form {
+  box-shadow: 0 2px 3px rgba(0,0,0,0.06);
+}
+
+.content > a {
+  transform: scale(1.4);
+  margin-bottom: 60px;
+}
+
+.content {
+  margin-top: -20%;
+}
+
+.personal-counter > button .pill .notification-pill {
+  border-color: transparent !important;
+  background-color: transparent !important;
+}
+
+.description {
+  color: #666 !important;
+}
